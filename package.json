@@ -1,0 +1,14 @@
+{
+  "name": "alcalc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryota kita",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^9.0.0"
+  },
+  "description": ""
+}
