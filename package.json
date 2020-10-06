@@ -8,7 +8,7 @@
   "author": "ryota kita",
   "license": "MIT",
   "dependencies": {
-    "electron": "^9.0.0"
+    "electron": "^9.3.1"
   },
   "description": ""
 }
